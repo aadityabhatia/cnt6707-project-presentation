@@ -101,6 +101,26 @@ Notes:
 
 Here are more applications
 
+- SVBE
+    - searchable and verifiable encryption
+    - required a second copy of all data on a cloud server
+- HyperLedger
+    - explored use of HyperLedger Fabric
+    - tried storing files on chain, inefficient
+    - text files only, base64
+- Jayabalan and Jeyanthi
+    - lean and decentralized approach
+    - very detailed and well thought out
+    - PoW transferred the cost to users
+- Dwarna
+    - informed consent
+    - fully centralized
+    - blockchain used to define permissions
+- hOBCS
+    - consortium for private access
+    - used PoA for consensus - depended on centralized entity to provide infrastructure
+    - modular storage options - IPFS, private server
+
 --
 
 ## Comparison of Applications
